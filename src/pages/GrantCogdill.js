@@ -6,7 +6,7 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>hi, I'm Grant Cogdill. </h1>
+            <h1 className='title'>hi, I'm Grant Cogdill </h1>
           </div>
           <img
             className='pic'
@@ -15,7 +15,12 @@ export default function examplePage() {
           />
 
           <p className='description'>
-            temp description until I update it
+            Hi, I'm Grant, a first year student at CU Boulder. I'm a computer science major interested in software development.
+            After travelling to Europe over summer, I realized that in the future, travelling the world is something that I want to do.
+            So, I hope that after college I can find a job that allows me the freedom to travel and work remotely.
+
+            Other than that, I grew up in a small town in Colorado near Grand Junction, and I love the mountains, hiking, and playing video games with friends.
+            :)
           </p>
 
           <a className='button' href='/'>
