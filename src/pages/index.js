@@ -25,8 +25,8 @@ export default function Home() {
           </a>
 
           <a href='/Zekeromero ' className='card'>
-            <h3>Example Zekeromero Page &rarr;</h3>
-            <p>Click here to navigate to an Zeke romero page</p>
+            <h3>Zeke Romero &rarr;</h3>
+            <p>Click here to navigate to Zeke Romero's page</p>
           </a>
 
           <a href='/GrantCogdill ' className='card'>
